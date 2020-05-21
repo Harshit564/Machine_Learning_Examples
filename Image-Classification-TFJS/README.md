@@ -43,9 +43,6 @@ $ python app.py
 ```
 - Test it in [localhost:5000](http://localhost:5000)
 
-
-![working](https://user-images.githubusercontent.com/14878297/63980308-d3103900-cac3-11e9-89ff-8b90284f52b4.gif)
-
 ## Customization
 
 - Use your pre-trained model
