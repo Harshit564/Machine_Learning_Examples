@@ -1,5 +1,5 @@
 # Image-Classification-TFJS
- Image Classification using Tensorflow.js library, could be tested by [this link](https://mrcrambo.github.io/Image-Classification-TFJS/)
+ Image Classification using Tensorflow.js library
 
 ## About
 
